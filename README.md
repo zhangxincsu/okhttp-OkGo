@@ -1,5 +1,7 @@
  ![image](https://github.com/jeasonlzy/Screenshots/blob/master/okgo/logo4.jpg)
 
+@(项目说明)[刀小弟|说明]
+
 # OkGo - `OkHttpUtils-2.0.0` 升级后改名 `OkGo`,全新完美支持`RxJava`
 
 ### 该库是封装了okhttp的标准RESTful风格的网络框架，可以与RxJava完美结合，比Retrofit更简单易用。支持大文件上传下载，上传进度回调，下载进度回调，表单上传（多文件和多参数一起上传），链式调用，可以自定义返回对象，支持Https和自签名证书，支持超时自动重连，支持cookie与session的自动管理，支持四种缓存模式缓存网络数据，支持301、302重定向，扩展了统一的上传管理和下载管理功能
